@@ -1,0 +1,4 @@
+﻿  Company.c
+c:\users\yalii\desktop\c\תרגילי בית\04\hw4 liran israeli\company.c(140): warning C4267: '=': conversion from 'size_t' to 'BYTE', possible loss of data
+c:\users\yalii\desktop\c\תרגילי בית\04\hw4 liran israeli\company.c(151): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  HW3.vcxproj -> C:\Users\yalii\Desktop\C\תרגילי בית\04\HW4 Liran Israeli\x64\Debug\HW3.exe
